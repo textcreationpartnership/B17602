@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Prohecie of Thomas Becket, Arch-Bishop of Canterbury in the reign of King Henry the second concerning the wars betwixt England, France, and Holland : lately found in an ancient manuscript at Abington by Dr. Ailsworth, and by him sent as a rarity to the University of Oxford : with the interpretation and judgement of divers of the learned masters, presidents, and principals of colledges, touching the great things fore-told in the following particulars.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B17602</idno><idno type="EEBO-CITATION">13222083</idno>
+  <idno type="VID">199397</idno>
+  <idno type="EEBO-PROQUEST">2240857986</idno>
+  
+            <idno type="STC">Wing B1651</idno>
+            <idno type="OCLC">13222083</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B17602)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 199397)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 445:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Prohecie of Thomas Becket, Arch-Bishop of Canterbury in the reign of King Henry the second concerning the wars betwixt England, France, and Holland : lately found in an ancient manuscript at Abington by Dr. Ailsworth, and by him sent as a rarity to the University of Oxford : with the interpretation and judgement of divers of the learned masters, presidents, and principals of colledges, touching the great things fore-told in the following particulars.</title>
+                  <author>Thomas, à Becket, Saint, 1118?-1170.</author>
+                  <author>Littleton, W., 17th cent.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G. Freeman,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1666.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Preface signed: "W. Littleton."</note>
+                  <note>A catchpenny publication of a pretended prophecy, which is of the usual vague kind about a Lily (France), Lion (Holland), and Eagle (Germany) ... It appears that both the name of 'Littleton' and of the publisher 'G. Freeman' in the prophecy are ficticious.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Prophecies --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:199397:1"/>
+            <p>THE PROPHECIE OF Thomas Becket, <hi>Arch-Bishop of</hi> Canterbury In the Reign of King <hi>HENRY</hi> the Second; <hi>Concerning the Wars betwixt</hi> England France, <hi>and</hi> Holland; Lately found in an ancient Manuscript at <hi>Abington,</hi> by Dr. <hi>Ailsworth;</hi> and by him sent as a Rarity to the University of <hi>OXFORD.</hi>
+            </p>
+            <p>
+               <hi>With the Interpretation and Judg<g ref="char:EOLhyphen"/>ment of divers of the Learned Masters, Presidents, and Principals of Colledges, touching the great things fore-told in the following Particulars.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>G. Freeman,</hi> Anno, 1666.</p>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:199397:2"/>
+            <pb n="1" facs="tcp:199397:2"/>
+            <head>The strange Prophecie.</head>
+            <opener>
+               <salute>Honoured Sir,</salute>
+            </opener>
+            <p>I Have here sent you a <hi>Prophecy,</hi> the truth whereof time its pro<g ref="char:EOLhyphen"/>bably may produce, &amp; that I hope, to the comfort of all his Majesties Loyal Subjects. <hi>The said Prophecy was lately found in</hi> Abington, <hi>in a Manuscript there by Dr.</hi> Ailsworth, <hi>and by him sent as a Rarity to the Ʋ<g ref="char:EOLhyphen"/>niversity of</hi> Oxford. <hi>And the Heads of several Houses,</hi> viz. <hi>the Ma<g ref="char:EOLhyphen"/>sters, Presidents, Principals,</hi> &amp;c. <hi>have given their Judgment of it; amongst others, Dr.</hi> Tully, <hi>Presi<g ref="char:EOLhyphen"/>dent of</hi> Edmond-<hi>Hall, who sent down
+<pb n="2" facs="tcp:199397:3"/>a Copy of it in a Letter of his dated</hi> Jan. 26. <hi>last to Mr.</hi> Yates, <hi>B. D. my Neighbour, from whom I transcribed this</hi> verbatim. <hi>By</hi> Lilium, <hi>they all unanimonsly conceive may be meant</hi> France, <hi>the Lillies being the Arms of it. By</hi> Leo, Holland, <hi>that being its Arms. By</hi> Aquila, <hi>the Emperour of</hi> Germany, <hi>that being his. And, which is the chief thing, by</hi> Filius hominis, <hi>the King of</hi> England, <hi>being deciphe<g ref="char:EOLhyphen"/>red by</hi> Ferens feras in brachiis, &amp; cujus regnum est in terra Lanae. <hi>By</hi> Caput Mundi, <hi>the Turk</hi> or <hi>Pope, as followeth in the Prophecie. The</hi> Marks <hi>you have accordingly, as they were sent to</hi> Mr. Yates <hi>by the said Doctor Tully.</hi>
+            </p>
+            <closer>
+               <signed>
+                  <hi>W. LITTLETON,</hi> Minister of the Gospel.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div xml:lang="lat" type="prophecy">
+            <pb n="3" facs="tcp:199397:3"/>
+            <head>Prophetia Sancti <hi>Thomae a Becket</hi> ex Manuscripto nuper <hi>Abindo<g ref="char:EOLhyphen"/>nae</hi> a Doctore <hi>Ailsworth</hi> invento transcripta.
+<note place="margin">Reg. Hen. 2.</note>
+            </head>
+            <p>
+               <note n="(a)" place="margin">France.</note>(a) LIlium in meliori parte manebit, &amp; intra<g ref="char:EOLhyphen"/>bit in terram (b)
+<note n="(b)" place="margin">Holland.</note> Leonis, carentis auxi<g ref="char:EOLhyphen"/>lio, quem bestiae Regionis suae dentibus lacera<g ref="char:EOLhyphen"/>bunt, &amp; stabit in agro inter Spinas regni sui, superne Filius Hominis veniet cum magno exer<g ref="char:EOLhyphen"/>citu transiens aquas,
+<note n="(c)" place="margin">King of <hi>England.</hi>
+               </note> (c) ferens feras in brachiis suis, cujus regnum est in terra Lanae, timendus per universum mundum.
+<note n="(d)" place="margin">Emperor of <hi>Germany.</hi>
+               </note> (d) Aquila veniet ex parte Orientali alis extensis super Solem, cum magna multitudine populorum suorum in adjutorium Filii Hominis. Illo Anno Castra deferentur, magnus timor erit in mundo, &amp; in quadam parte Leonis bellum erit inter plures Reges, &amp; erit Sanguinis diluvium. Lilium perdet Coronam suam, de qua Filius Hominis Coronabitur; &amp; per quatuor annos sequentes fiunt in mundo praelia multa inter fidem sectan<g ref="char:EOLhyphen"/>tes. Pars mundi destruetur.
+<note n="(e)" place="margin">T<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, <hi>or<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> Pope.</note> (e) Caput mundi erit ad terram. Filius Hominis &amp; Aquila prae<g ref="char:EOLhyphen"/>valebunt,
+<pb n="4" facs="tcp:199397:4"/>&amp; tunc erit pax in toto terrarum orbe. Tunc Filius Hominis accipiet Signum Mirabile, &amp; ibit in Terram Promissionis.</p>
+         </div>
+         <div xml:lang="eng" type="prophecy">
+            <head>The Prophecy <hi>of St.</hi> Thomas a Bec<g ref="char:EOLhyphen"/>ket, <hi>Arch-Bishop of</hi> Canterbury, <hi>in the Reign of</hi> Henry <hi>the Se<g ref="char:EOLhyphen"/>cond, found lately in an ancient Manuscript at</hi> Abingdon by <hi>Dr.</hi> Ailsworth.</head>
+            <p>THE <hi>Lillie</hi> (a)
+<note n="(a)" place="margin">France</note> shall remain in the bet<g ref="char:EOLhyphen"/>ter part, and shall enter into the Land of the <hi>Lyon,</hi>
+               <note n="(b)" place="margin">Holland.</note> (b) they wanting his assistance, which the <hi>Beasts</hi> of his own Kingdom shall tear with their <hi>Teeth,</hi> and shall stand in the Field amongst the
+<pb n="5" facs="tcp:199397:4"/>
+               <hi>Thorns</hi> of his Kingdom; at length shal the <hi>Son</hi> (c)
+<note n="(c)" place="margin">
+                  <hi>K.</hi> of <hi>England.</hi>
+               </note> of Man come with a great <hi>Army,</hi> passing the Waters, carrying <hi>Wild Beasts</hi> in his <hi>Arms,</hi> whose Kingdom is in the Land of Wool, and feared by the whole World.
+<note n="(d)" place="margin">
+                  <hi>Emperour of</hi> Germany.</note> (d) <hi>The Eagle</hi> shall come out of the <hi>East</hi> with his Wings spread upon the <hi>SUN,</hi> with a great Multitude of his <hi>Peo<g ref="char:EOLhyphen"/>ple,</hi> to the help of the <hi>Son of Man;</hi> In that Year Camps shall be torn, great Fear shall be in the <hi>World;</hi> and in some part of the <hi>Land of the Lyon</hi> shall War be amongst many Kings, and there shall be a Flood of Blood. <hi>The Lilly</hi> shall loose his Crowne, with which the Sonne of
+<pb n="6" facs="tcp:199397:5"/>Man shall be Crowned. And for four following years shall there be many Battails amongst Christians. Part of the World shall be de<g ref="char:EOLhyphen"/>stroyed.
+<note n="(e)" place="margin">
+                  <hi>Pope,</hi> or <hi>Turk.</hi>
+               </note> (e) <hi>The</hi> Head of the world shal be to the earth <hi>The</hi> Son of Man &amp; the Eagle shall prevail, and then shal there be peace over the whole face of the Earth. Then shall the Son of Man receive a Wonderful Signe, and shall go into the Land of Promise.</p>
+            <pb facs="tcp:199397:5"/>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
